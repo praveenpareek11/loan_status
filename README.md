@@ -47,6 +47,10 @@ Objective:-
 
 
 -----
+### Feature Importance for the Loan Status.
+
+![loan_features](https://user-images.githubusercontent.com/36000962/75601941-63b4e980-5ae6-11ea-8303-cf3b5251c96d.png)
+
 
 ### Model Evaluation:
 
